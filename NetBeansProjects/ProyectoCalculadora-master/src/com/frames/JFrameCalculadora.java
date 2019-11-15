@@ -84,7 +84,7 @@ public class JFrameCalculadora extends javax.swing.JFrame {
         jTextField1.setBorder(null);
         jPanel1.add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 310, 30));
 
-        jTextField2.setBackground(new java.awt.Color(204, 255, 255));
+        jTextField2.setBackground(new java.awt.Color(240, 240, 240));
         jTextField2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jTextField2.setHorizontalAlignment(javax.swing.JTextField.RIGHT);
         jTextField2.setBorder(null);
